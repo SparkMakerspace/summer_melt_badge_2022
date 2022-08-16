@@ -80,7 +80,7 @@
     (tedit 0) (tstamp e5e5220d-5b7e-47da-a902-b997ec8d4d58)
     (at 99.06 86.36)
     (attr board_only exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "G***" (at 0 0) (layer "F.SilkS")
+    (fp_text reference "-" (at -18.31 1.64 90) (layer "F.SilkS")
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp cbebc05a-c4dd-4baf-8c08-196e84e08b27)
     )
