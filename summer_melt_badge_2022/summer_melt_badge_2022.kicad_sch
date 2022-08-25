@@ -1494,7 +1494,7 @@
     (uuid dcce9beb-a6a5-4ab2-8739-7a753559b830)
     (property "Reference" "R1" (id 0) (at 116.84 78.74 90))
     (property "Value" "4.7k" (id 1) (at 116.84 81.28 90))
-    (property "Footprint" "Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P30.48mm" (id 2) (at 116.84 85.09 0)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 116.84 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 116.84 85.09 0)
@@ -1545,8 +1545,8 @@
     (pin "1" (uuid 4438c8b0-f927-4be1-8faf-585168ada9aa))
     (pin "2" (uuid d81d8b49-a266-4ec5-95c9-db889f978a69))
     (pin "3" (uuid 4bc7c613-7a45-469f-859b-b1d7d5ecd132))
-    (pin "S1" (uuid 7f351312-f441-42dc-bf1d-0a428c395845))
-    (pin "S1" (uuid 7f351312-f441-42dc-bf1d-0a428c395845))
+    (pin "S1" (uuid 7f351312-f441-42dc-bf1d-0a428c395847))
+    (pin "S1" (uuid 7f351312-f441-42dc-bf1d-0a428c395847))
   )
 
   (symbol (lib_id "power:+BATT") (at 34.29 96.52 270) (unit 1)
@@ -1660,7 +1660,7 @@
       (reference "J1") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical")
     )
     (path "/dcce9beb-a6a5-4ab2-8739-7a753559b830"
-      (reference "R1") (unit 1) (value "4.7k") (footprint "Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P30.48mm")
+      (reference "R1") (unit 1) (value "4.7k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/e8832788-83ec-4c5a-a4dd-e62560321ac4"
       (reference "S1") (unit 1) (value "SS12D07VG4") (footprint "SS12D07VG4:SW_SS12D07VG4")
